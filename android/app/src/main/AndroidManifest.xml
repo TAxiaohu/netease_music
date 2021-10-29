@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.netease_music">
    <application
-        android:label="netease_music"
+        android:label="网易云音乐(仿)"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"
